@@ -3,3 +3,4 @@ This Python script allows you to convert currency using the CurrencyAPI. It prom
 
 ## Prerequisites
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+* requests library (pip install requests)
